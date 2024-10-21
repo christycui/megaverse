@@ -59,7 +59,7 @@ class Square():
 	def _add_crossmint_soloons(self) -> List[Soloon]:
 		"""Returns a list of Soloons that are part of the crossmint."""
 		soloons = [Soloon(3, 20, Color.WHITE), Soloon(4, 5, Color.BLUE), Soloon(4, 8, Color.PURPLE),
-			Soloon(5, 6, Color.WHITE), Soloon(5, 20, Color.BLUE), Soloon(7, 15, Color.RED),
+			Soloon(5, 6, Color.WHITE), Soloon(5, 19, Color.BLUE), Soloon(7, 15, Color.RED),
 			Soloon(7, 23, Color.PURPLE), Soloon(8, 4, Color.WHITE), Soloon(8, 10, Color.BLUE),
 			Soloon(9, 6, Color.PURPLE), Soloon(9, 12, Color.RED), Soloon(10, 18, Color.PURPLE),
 			Soloon(11, 7, Color.BLUE), Soloon(14, 9, Color.WHITE), Soloon(14, 17, Color.BLUE),
